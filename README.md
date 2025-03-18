@@ -57,3 +57,6 @@ Open the project in Unity and open the `Assets/Scenes/GetStarted` scene. You can
 
 ## Licenses
 This project is released under the [MIT License](https://github.com/YVRDeveloper/GetStarted-Unity/blob/main/LICENSE).
+![2025 03 18_165522032](https://github.com/user-attachments/assets/6653816a-735c-4c00-8695-e49fe26de91b)
+![2025 03 18_165540487](https://github.com/user-attachments/assets/51ca88be-b880-4d15-a28d-07e9950f865a)
+
