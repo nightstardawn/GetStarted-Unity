@@ -3,6 +3,7 @@ The **Get Started** sample is a simple Unity project that demonstrates how to us
 
 ## Getting Started
 Open the project in Unity and open the `Assets/Scenes/GetStarted` scene. You can run the scene in the Unity Editor or build it to a device.
+![2025 03 18_113417227](https://github.com/user-attachments/assets/5da5ad1c-f4d0-4f28-90b5-58ebeac71a00)
 
 ## Development Environment
 | **Name** | **Version** |
